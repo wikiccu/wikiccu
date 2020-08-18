@@ -1,6 +1,4 @@
-### Hi there 👋
-
-✨✨  **Saeed Rostami**  ✨✨ 
+✨✨ Hi this is **Saeed Rostami**  ✨✨ 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
