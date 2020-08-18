@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-✨ _special_ ✨  **wikiccu/wikiccu**  ✨ _special_ ✨ 
+✨✨  **Saeed Rostami**  ✨✨ 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
