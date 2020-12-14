@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning PHP laravel and Python
 - 🤔 I’m looking for help for learning web developing 
 - 💬 Ask me about anything :)
-- 📫 How to reach me: telegram: @privatemx and Instagram : @0x5aeed
+- 📫 How to reach me: Telegram: @privatemx and Instagram : @0x5aeed
 - ⚡ Fun fact: CoDMobile Gamer ... 
 
