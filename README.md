@@ -1,8 +1,5 @@
 
 ✨✨ Hi this is **Saeed Rostami**  ✨✨ 
-  
-  ![chess](https://raw.githubusercontent.com/wikiccu/mycv/master/mycv/static/img/maintenance.jpg)
-
 
 - 🔭 I’m currently working on all the things i can do ...
 - 🌱 I’m currently learning Node.js and Python
