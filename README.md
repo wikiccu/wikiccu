@@ -1,10 +1,8 @@
 
 ✨✨ Hi this is **Saeed Rostami**  ✨✨ 
 
-- 🔭 I’m currently working on all the things i can do ...
-- 🌱 I’m currently learning Node.js and Python
-- 🤔 I’m looking for help for learning web developing 
+- 🌱 I’m currently learning Node.js javascript backend
 - 💬 Ask me about anything :)
-- 📫 How to reach me: Telegram: @privatemx and Instagram : @0x5aeed
+- 📫 Reach me in: Telegram: @privatemx and Instagram : @0x5aeed
 - ⚡ Fun fact: CoDCW Gamer and chess player... 
 - ⚡ You can see my chess games [here](https://lichess.org/@/hex_5aeed/all)
